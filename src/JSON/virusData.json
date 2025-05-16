@@ -1,0 +1,342 @@
+[
+    {
+        "nome":"UnclosableWindow",
+        "Categoria":"Virus",
+        "attivo": true,
+        "pericolo": 30,
+        "descrizione":{
+            "en":"Simulates an error window that cannot be closed. Even if the user tries to close it, the window reopens infinitely, causing frustration and giving the impression that the system is compromised. This behavior is typical of viruses designed to annoy rather than do permanent damage.",
+            "it":"Simula una finestra di errore che non può essere chiusa. Anche se l’utente tenta di chiuderla, la finestra si riapre all’infinito, creando frustrazione e dando l’impressione che il sistema sia compromesso. Questo comportamento è tipico di virus progettati per disturbare senza causare danni permanenti."
+        }
+    },
+    
+    {
+        "nome":"BlueDeath",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 80,
+        "descrizione":{
+            "en":"Displays a blue screen resembling a system crash, temporarily halting the user's activity. It may lead the user to believe a serious hardware or software failure has occurred.",
+            "it":"Visualizza una schermata blu simile a quella di un arresto critico di sistema, bloccando momentaneamente le attività dell'utente. Può far pensare a un guasto hardware o software grave."
+        }
+    },
+    
+    {
+        "nome":"ChangeWallpaper",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 15,
+        "descrizione":{
+            "en":"Changes the desktop wallpaper to an image chosen by the attacker. The alteration happens without permission, disorienting the user and suggesting unauthorized access.",
+            "it":"Modifica lo sfondo del desktop con un'immagine a scelta del creatore. Il cambiamento avviene senza permesso, disorientando l'utente e suggerendo accesso non autorizzato."
+        }
+    },
+    
+    {
+        "nome":"InvertColors",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 15,
+        "descrizione":{
+            "en":"Activates color inversion at the system level, drastically altering the appearance of all open windows and programs. The effect is visually disturbing and disrupts computer use.",
+            "it":"Attiva l’inversione dei colori a livello di sistema, alterando drasticamente la visualizzazione di ogni finestra e programma aperto. Effetto disturbante per l’utilizzo del computer."
+        }
+    },
+    
+    {
+        "nome":"ScreenFlicker",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 35,
+        "descrizione":{
+            "en":"Causes the screen to flicker rapidly or restarts the graphics driver, giving the impression of a critical GPU malfunction.",
+            "it":"Attiva il lampeggiamento rapido del display o forza il riavvio del driver grafico, creando l'impressione di un malfunzionamento critico della GPU."
+        }
+    },
+    
+    {
+        "nome":"DeleteShortcuts",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 40,
+        "descrizione":{
+            "en":"Deletes all shortcuts in a folder, making it look like programs are gone. However, files remain untouched.",
+            "it":"Elimina tutti i collegamenti in una cartella, facendo credere che i programmi siano spariti. In realtà i file rimangono intatti."
+        }
+    },
+    
+    {
+        "nome":"FloodDesktop",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 25,
+        "descrizione":{
+            "en":"Deletes desktop items and replaces them with hundreds of empty folders. The user gets disoriented by the suddenly changed interface.",
+            "it":"Cancella gli elementi del desktop e li sostituisce con centinaia di cartelle vuote. L’utente si trova disorientato da un’interfaccia completamente cambiata."
+        }
+    },
+    
+    {
+        "nome":"DeleteFilesInDir",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 80,
+        "descrizione":{
+            "en":"Permanently deletes all files in a specific folder. Potentially very dangerous if used on critical directories.",
+            "it":"Elimina in modo permanente tutti i file in una specifica cartella. Potenzialmente molto pericoloso se usato su directory importanti."
+        }
+    },
+    
+    {
+        "nome":"UndeletableFile",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 55,
+        "descrizione":{
+            "en":"A file that recreates itself every time the user tries to delete it, causing confusion and frustration.",
+            "it":"Un file che si ricrea ogni volta che l’utente prova a cancellarlo, generando confusione e frustrazione."
+        }
+    },
+    
+    {
+        "nome":"IconSwapper",
+        "Categoria":"Virus",
+        "attivo": false,
+        "pericolo": 20,
+        "descrizione":{
+            "en":"Replaces shortcut icons with unrecognizable or misleading ones. The user struggles to tell real applications apart from the altered ones.",
+            "it":"Sostituisce le icone dei collegamenti con altre non riconoscibili o fuorvianti. L’utente fatica a distinguere le applicazioni reali da quelle modificate."
+        }
+    },
+    
+    {
+        "nome":"InfiniteWindows",
+        "Categoria":"Worm",
+        "attivo": false,
+        "pericolo": 60,
+        "descrizione":{
+            "en":"Continuously opens new windows without stopping, eventually saturating system resources. The computer becomes slower and may completely freeze.",
+            "it":"Apre continuamente nuove finestre senza mai fermarsi, fino a saturare le risorse del sistema. Il computer diventa progressivamente più lento fino a bloccarsi del tutto."
+        }
+    },
+    
+    {
+        "nome":"WebBomb",
+        "Categoria":"Worm",
+        "attivo": false,
+        "pericolo": 45,
+        "descrizione":{
+            "en":"Launches a burst of random or predefined websites in the default browser, consuming bandwidth and making the computer nearly unusable.",
+            "it":"Lancia una raffica di siti web casuali o predefiniti nel browser predefinito, consumando larghezza di banda e rendendo il computer quasi inutilizzabile."
+        }
+    },
+    
+    {
+        "nome":"AppFlood",
+        "Categoria":"Worm",
+        "attivo": false,
+        "pericolo": 50,
+        "descrizione":{
+            "en":"Rapidly opens multiple instances of system programs like Task Manager, CMD, Paint, or Calculator, stressing the CPU and interfering with normal use.",
+            "it":"Avvia istanze multiple di programmi di sistema come Task Manager, CMD, Paint o Calcolatrice in rapida successione, affaticando la CPU e disturbando il normale utilizzo."
+        }
+    },
+    
+    {
+        "nome":"FolderStorm",
+        "Categoria":"Worm",
+        "attivo": false,
+        "pericolo": 35,
+        "descrizione":{
+            "en":"Creates hundreds or thousands of folders with random names in a directory, filling up space and making it hard to locate real files.",
+            "it":"Crea centinaia o migliaia di cartelle con nomi casuali in una directory, riempiendo lo spazio e rendendo difficile trovare i file reali."
+        }
+    },
+    
+    {
+        "nome":"ShutdownMessage",
+        "Categoria":"Trojan",
+        "attivo": false,
+        "pericolo": 65,
+        "descrizione":{
+            "en":"Displays a disturbing or provocative message, then immediately shuts down the computer. The action appears intentional and causes panic or confusion.",
+            "it":"Mostra un messaggio inquietante o provocatorio e spegne il computer subito dopo. L’intervento sembra deliberato e intenzionale, provocando panico o confusione."
+        }
+    },
+    
+    {
+        "nome":"CountdownShutdown",
+        "Categoria":"Trojan",
+        "attivo": false,
+        "pericolo": 50,
+        "descrizione":{
+            "en":"Starts a visible countdown that ends with the PC shutting down automatically. The user has no control over the process, increasing the sense of helplessness.",
+            "it":"Avvia un conto alla rovescia visibile, al termine del quale il PC si spegne automaticamente. L’utente non ha controllo sul processo, aumentando la sensazione di impotenza."
+        }
+    },
+    
+    {
+        "nome":"CreepyNotepad",
+        "Categoria":"Trojan",
+        "attivo": false,
+        "pericolo": 40,
+        "descrizione":{
+            "en":"Opens Notepad with a creepy text written like a poem. The message feels like a threat or mockery, leaving the user confused or frightened.",
+            "it":"Apre Blocco Note con un testo inquietante, scritto in forma di poesia. Il messaggio si presenta come una minaccia o una presa in giro, lasciando l’utente perplesso o spaventato."
+        }
+    },
+    
+    {
+        "nome":"KeySwap",
+        "Categoria":"Trojan",
+        "attivo": false,
+        "pericolo": 60,
+        "descrizione":{
+            "en":"Changes the keyboard key mapping so that each typed letter becomes another one. Typing becomes impossible, and the user may think the keyboard is malfunctioning.",
+            "it":"Modifica la mappatura dei tasti sulla tastiera, facendo in modo che ogni lettera digitata venga sostituita con un’altra. Scrivere diventa impossibile e l’utente pensa che la tastiera sia difettosa."
+        }
+    },
+    
+    {
+        "nome":"FileLock",
+        "Categoria":"Ransomware",
+        "attivo": false,
+        "pericolo": 75,
+        "descrizione":{
+            "en":"Makes a file inaccessible by changing its permissions or encrypting it. Any attempt to open it fails, and no clear explanation is given, increasing frustration and panic.",
+            "it":"Rende un file inaccessibile modificandone i permessi o criptandolo. Qualsiasi tentativo di apertura fallisce, e l’utente non riceve spiegazioni chiare, aumentando il senso di frustrazione e panico."
+        }
+    },
+    
+    {
+        "nome":"AutoScreenshot",
+        "Categoria":"Spyware",
+        "attivo": false,
+        "pericolo": 80,
+        "descrizione":{
+            "en":"Takes screenshots of the desktop at regular intervals without user awareness. The captured images may include sensitive data like passwords, private messages, or personal documents.",
+            "it":"Cattura schermate del desktop a intervalli regolari senza che l’utente se ne accorga. Le immagini raccolte possono contenere dati sensibili come password, messaggi privati o documenti personali."
+        }
+    },
+    
+    {
+        "nome":"KeyLogger",
+        "Categoria":"Spyware",
+        "attivo": false,
+        "pericolo": 85,
+        "descrizione":{
+            "en":"Records every keystroke and stores the data in a hidden file. This enables the theft of credentials, conversations, or other typed information without visible signs.",
+            "it":"Registra ogni tasto premuto sulla tastiera e salva tutto in un file nascosto. Questo permette il furto di credenziali, conversazioni o altri dati digitati, senza lasciare tracce visibili."
+        }
+    },
+    
+    {
+        "nome":"EndlessBeep",
+        "Categoria":"Adware",
+        "attivo": false,
+        "pericolo": 45,
+        "descrizione":{
+            "en":"Generates an endless series of high-pitched beeps through the system speaker. Even at low volume, the continuous noise becomes unbearable and forces the user to shut down the system.",
+            "it":"Genera una serie infinita di suoni acuti attraverso l'altoparlante di sistema. Anche a volume basso, il rumore continuo diventa insopportabile e spinge l’utente a forzare lo spegnimento."
+        }
+    },
+    
+    {
+        "nome":"NoiseAttack",
+        "Categoria":"Adware",
+        "attivo": false,
+        "pericolo": 50,
+        "descrizione":{
+            "en":"Continuously plays random or disturbing audio in the background. Even if the user closes all apps, the noise persists and its source remains unclear.",
+            "it":"Riproduce ripetutamente suoni casuali o disturbi audio in background. Anche se l’utente chiude tutte le app, il rumore persiste e non si riesce a capire da dove provenga."
+        }
+    },
+    
+    {
+        "nome":"RandomMouseMove",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 55,
+        "descrizione":{
+            "en":"Moves the cursor in random directions while the user operates the computer. The movements make it hard to click or type, giving the impression of a hardware issue or remote intrusion.",
+            "it":"Muove il cursore in direzioni casuali mentre l’utente usa il computer. I movimenti rendono difficile cliccare sui pulsanti o scrivere, dando l’impressione di un guasto hardware o di un controllo remoto."
+        }
+    },
+    
+    {
+        "nome":"SloweMouse",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 55,
+        "descrizione":{
+            "en":"Moves the pointer slowly and with intentional delays, even though the physical mouse behaves normally. The experience becomes frustrating, and the user suspects system failure.",
+            "it":"Muove il puntatore lentamente e con ritardi intenzionali, anche se il mouse fisico risponde normalmente. L’esperienza diventa frustrante e l’utente crede che il sistema stia collassando."
+        }
+    },
+    
+    {
+        "nome":"KeyReverse",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 60,
+        "descrizione":{
+            "en":"Reverses the behavior of common keys like arrows, enter, or delete. Daily tasks become unpredictable, causing confusion and usability issues.",
+            "it":"Inverte il comportamento di tasti comuni come frecce, invio, o cancellazione. Le azioni quotidiane risultano imprevedibili, causando confusione e difficoltà d'uso."
+        }
+    },
+    
+    {
+        "nome":"KeyboardOff",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 75,
+        "descrizione":{
+            "en":"Disables the keyboard using system commands. The user can’t type anything, not even to look for help, leading to a complete work stoppage.",
+            "it":"Disattiva la tastiera usando comandi di sistema. L’utente non riesce più a scrivere nulla, neanche per cercare una soluzione, portando a un blocco completo del lavoro."
+        }
+    },
+    
+    {
+        "nome":"WIFIoff",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 70,
+        "descrizione":{
+            "en":"Disconnects the Wi-Fi network and prevents it from being re-enabled. Every reconnection attempt fails, blocking all access to the internet or online support.",
+            "it":"Disconnette la rete Wi-Fi e ne impedisce la riattivazione. Ogni tentativo di riconnessione fallisce, impedendo qualsiasi accesso a internet o supporto online."
+        }
+    },
+    
+    {
+        "nome":"ScreenRotate",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 55,
+        "descrizione":{
+            "en":"Rotates the screen by 90 or 180 degrees without warning. The incorrect orientation confuses the user and makes it hard to use the mouse or interpret open windows.",
+            "it":"Ruota lo schermo di 90 o 180 gradi senza avviso. L’orientamento errato disorienta l’utente, rendendo difficile usare il mouse e interpretare le finestre aperte."
+        }
+    },
+    
+    {
+        "nome":"ScreenRotate",
+        "Categoria":"Rootkit",
+        "attivo": false,
+        "pericolo": 55,
+        "descrizione":{
+            "en":"Rotates the screen by 90 or 180 degrees without warning. The incorrect orientation confuses the user and makes it hard to use the mouse or interpret open windows.",
+            "it":"Ruota lo schermo di 90 o 180 gradi senza avviso. L’orientamento errato disorienta l’utente, rendendo difficile usare il mouse e interpretare le finestre aperte."
+        }
+    },
+    
+    {
+        "nome":"Russian roulette",
+        "Categoria":"Game",
+        "attivo": true,
+        "pericolo": 90,
+        "descrizione":{
+            "en":"A virus that simulates a deadly gambling game. Each time it runs, it randomly decides whether to trigger a destructive action, such as deleting files, terminating critical processes, or freezing the system. The user is constantly at risk, unaware if the harmful action will be triggered.",
+            "it":"Un virus che simula un gioco d'azzardo letale. Ogni volta che viene eseguito, seleziona casualmente se attivare un'azione distruttiva, come cancellare file, terminare processi critici o bloccare il sistema. L'utente è costantemente a rischio, senza sapere se l'azione dannosa verrà eseguita."
+        }
+    }
+]

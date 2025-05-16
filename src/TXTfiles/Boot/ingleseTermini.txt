@@ -1,0 +1,81 @@
+⚠️ Terms and Conditions of Use
+
+Last updated: 14/05/2025
+
+IMPORTANT – PLEASE READ CAREFULLY BEFORE USING THIS SOFTWARE.
+Use of this software is subject to the full and unconditional acceptance of the following terms. If you do not agree with any part of these terms, you must immediately uninstall the software and cease all usage.
+
+
+
+1. Definitions
+
+- Software: refers to the executable program, associated files, documentation, libraries, and any other components provided in the package.
+- Author: the individual or group who developed the software.
+- User: the person or entity using the software.
+
+
+
+2. Authorized Use
+
+- The user is authorized to run the software only on systems they own or are explicitly authorized to use.
+- The software is intended strictly for technical, research, controlled testing, or cybersecurity purposes.
+- Use on third-party systems without written consent is strictly prohibited.
+
+
+
+3. Risks and Limitations
+
+- This software may alter system behavior, modify the registry, manipulate files, or automatically execute commands or processes.
+- It may generate code with potentially destructive effects, including but not limited to file deletion, data corruption, or system resource blocking. 
+- Use by inexperienced individuals or without advanced knowledge is strongly discouraged.
+
+
+
+ 4. Disclaimer of Liability;
+
+- The author disclaims all liability for any damages, direct or indirect, resulting from:
+  - Software malfunction or bugs.
+  - Improper, illegal, or non-compliant use.
+  - Data loss, system crashes, or hardware/software failure.
+  - Financial, legal, or reputational consequences from use of this tool.
+
+
+
+5. Legal Compliance
+
+- The user agrees to comply with all applicable local, national, and international laws concerning computer security, software usage, and privacy. 
+- In many jurisdictions, using or distributing malicious software is considered a criminal offense.  
+- Any illegal activity carried out using this software is entirely the user's responsibility.
+
+
+
+6. License of Use
+
+- The user does not acquire any ownership rights over the software.
+- Redistribution, sale, reverse engineering, decompiling, or modification of the software is prohibited without prior written permission.
+
+
+
+7. Privacy and Telemetry
+
+- This software does not collect personal user data or transmit information to third parties. However, the user acknowledges that the author cannot guarantee the absence of vulnerabilities or unexpected behaviors.
+
+
+
+8. Updates and Maintenance
+
+- The software does not support automatic updates.  
+- The author does not guarantee technical support or bug fixes.
+
+
+
+9. Termination
+
+- Any breach of these terms will result in immediate revocation of the right to use the software. 
+- The author reserves the right to terminate access at any time, without notice.
+
+
+
+10. Acceptance
+
+- By installing or using this software, the user confirms they have read, understood, and fully accepted all terms outlined above.

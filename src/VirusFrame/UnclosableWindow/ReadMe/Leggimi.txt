@@ -1,0 +1,8 @@
+Requisiti:
+ - Compilatore C++ (es g++ che fa parte di MinGW)
+ - File `code.cpp` 
+
+Passaggi per compilare il file `code.cpp` da terminale:
+1) Usa il tasto destro del mouse su uno spazio vuoto nella cartella
+2) Clicca su `Apri nel terminale`
+3) Copia queto nel terminale: g++ -o code.exe code.cpp -mwindows

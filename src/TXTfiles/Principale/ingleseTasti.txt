@@ -1,0 +1,5 @@
+Select virus type:
+Select virus:
+Information:
+Next
+Select language:

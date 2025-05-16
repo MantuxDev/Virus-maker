@@ -1,0 +1,42 @@
+[
+    {
+        "en": "Malicious programs that attach themselves to other executable files, activating only when the infected file is run. They can damage data, slow down the system, or spread through shared media.",
+        "it": "Programmi malevoli che si legano ad altri file eseguibili, attivandosi solo quando il file infetto viene eseguito. Possono danneggiare dati, rallentare il sistema o propagarsi tramite supporti condivisi."
+    },
+    
+    {
+        "en": "Malware capable of self-replication and rapid spread across networks, without the need to infect other files. They may generate abnormal traffic or create backdoors.",
+        "it": "Malware in grado di replicarsi autonomamente e diffondersi rapidamente attraverso reti, senza la necessità di infettare altri file. Possono generare traffico anomalo o creare backdoor."
+    },
+    
+    {
+        "en": "Software that appears legitimate but hides harmful functionality, often used to gain remote access, steal data, or install additional malware.",
+        "it": "Software apparentemente legittimo che nasconde funzioni dannose, spesso utilizzato per ottenere accesso remoto, rubare dati o installare altri malware."
+    },
+    
+    {
+        "en": "Locks or encrypts a victim's data, demanding a ransom to restore access. It usually activates without warning and compromises the entire system.",
+        "it": "Blocca o cifra i dati della vittima, chiedendo un riscatto per ripristinarli. Solitamente entra in azione senza preavviso e compromette l'intero sistema."
+    },
+    
+    {
+        "en": "Collects information about the user and their activity, often without their knowledge. It may monitor keystrokes, screenshots, visited websites, and more",
+        "it": "Raccoglie informazioni sull'utente e le sue attività, spesso senza che l'utente se ne accorga. Può monitorare input da tastiera, schermate, siti visitati e molto altro."
+    },
+    
+    {
+        "en": "Displays invasive or unwanted ads, sometimes redirecting users to unsafe sites or slowing down the system. It is often installed along with other software",
+        "it": "Mostra pubblicità invasive o indesiderate, a volte reindirizzando l'utente verso siti non sicuri o rallentando il sistema. Spesso è installato insieme ad altri programmi"
+    },
+    
+    {
+        "en": "Software designed to hide the presence of other malware or suspicious activity, gaining elevated system privileges and making detection difficult.",
+        "it": "Software progettato per nascondere la presenza di altri malware o attività sospette, ottenendo privilegi di sistema elevati e rendendo difficile la rilevazione."
+    },
+    
+    {
+        "en": "This category includes viruses that exploit the concept of games to interact with the user, but in a dangerous way. Each behavior is designed to appear as a game or challenge, but can lead to harmful consequences for the system. From simple tests of luck to full-fledged challenges, these viruses hide a destructive side behind an innocent appearance",
+        "it": "Questa categoria comprende virus che sfruttano il concetto di gioco per interagire con l'utente, ma in modo pericoloso. Ogni comportamento è progettato per sembrare un gioco o una sfida, ma può portare a conseguenze dannose per il sistema. Dai semplici test di fortuna a vere e proprie sfide, questi virus nascondono un lato distruttivo dietro un'apparente innocenza."
+    }
+    
+]

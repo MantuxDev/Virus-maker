@@ -1,0 +1,81 @@
+⚠️ Termini e Condizioni d'Uso
+
+Ultimo aggiornamento: 14/05/2025
+
+IMPORTANTE – LEGGERE ATTENTAMENTE PRIMA DI UTILIZZARE QUESTO SOFTWARE. 
+Questo software è fornito "così com'è" e l'utilizzo è subordinato all'accettazione completa e incondizionata dei seguenti termini. Qualora non si accettino, anche solo in parte, i presenti termini, l’utente è tenuto a disinstallare immediatamente il software e cessare ogni utilizzo.
+
+
+
+1. Definizioni
+
+- Software: indica il programma eseguibile, i file associati, la documentazione, le librerie e ogni altro elemento fornito dal pacchetto.
+- Autore: l'individuo o gruppo che ha sviluppato il software.
+- Utente: la persona fisica o giuridica che utilizza il software.
+
+
+
+2. Uso Consentito
+
+- L’utente è autorizzato a eseguire il software esclusivamente su macchine di propria proprietà o su cui ha pieno diritto d’uso.
+- L’uso del software è limitato a scopi tecnici, di testing, ricerca in ambienti controllati o sicurezza informatica.
+- È vietato l’utilizzo su sistemi terzi senza esplicito consenso scritto.
+
+
+
+3. Rischi e Limitazioni
+
+- Il software può comportare alterazioni di sistema, modifiche al registro, manipolazioni di file, esecuzione automatica di comandi o processi.
+- Può generare codice con effetti potenzialmente distruttivi, come cancellazione di file, sovrascrittura di dati, blocco di risorse di sistema.
+- È fortemente sconsigliato l’utilizzo da parte di utenti inesperti o senza conoscenze approfondite in ambito informatico o di sicurezza.
+
+
+
+4. Clausola di Non Responsabilità
+
+- L’autore non è in alcun modo responsabile per danni diretti o indiretti derivanti da:
+  - Malfunzionamento del software.
+  - Uso improprio, illegale o contrario ai termini.
+  - Perdita di dati, crash di sistema o altri malfunzionamenti hardware/software.
+  - Impatti economici, legali o reputazionali causati dall’uso del programma.
+
+
+
+5. Conformità Legale
+
+- L’utente si impegna a rispettare tutte le normative locali, nazionali e internazionali in materia di informatica, sicurezza, privacy e uso di software potenzialmente dannoso.
+- In molti Paesi, l’uso o la distribuzione di codice malevolo è considerata un reato perseguibile penalmente.
+- Qualsiasi attività illecita realizzata con questo software è interamente sotto la responsabilità dell’utente.
+
+
+
+6. Licenza d'Uso
+
+- L’utente non acquisisce alcun diritto di proprietà sul software.
+- È vietata la distribuzione, vendita, ingegneria inversa, decompilazione o modifica del software salvo diversa autorizzazione scritta.
+
+
+
+7. Privacy e Telemetria
+
+- Questo software non raccoglie dati personali dell’utente né invia informazioni a terze parti. Tuttavia, l’utente accetta che l’autore non possa garantire l'assenza di vulnerabilità o comportamenti imprevisti.
+
+
+
+8. Aggiornamenti e Manutenzione
+
+- Il software non prevede aggiornamenti automatici.
+- L’autore non garantisce assistenza tecnica né correzione di bug.
+
+
+
+9. Clausola di Risoluzione
+
+- La violazione di anche uno solo dei presenti termini comporterà l’immediata revoca del diritto d’uso.
+- L’autore si riserva il diritto di revocare l’accesso in qualsiasi momento e senza preavviso.
+
+
+
+10. Accettazione
+
+- Utilizzando o installando il software, l’utente dichiara di aver letto, compreso e accettato tutti i termini sopra indicati.

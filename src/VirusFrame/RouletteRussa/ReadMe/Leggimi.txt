@@ -1,0 +1,8 @@
+Requisiti:
+ - Python installato (Consigliata l'utilma versione)
+ - File `RouletteRussa.py`
+
+Passaggi per eseguire il file RouletteRussa.py da terminale:
+1)Usa il tasto destro del mouse su uno spazio vuoto nella cartella.
+2) Clicca su Apri nel terminale.
+3) Copia questo nel terminale: python RouletteRussa.py
